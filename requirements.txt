@@ -3,3 +3,4 @@ xgboost==2.0.3
 streamlit==1.31.1
 model = xgb.XGBRegressor()
 numpy==1.26.4
+pandas==2.2.1
